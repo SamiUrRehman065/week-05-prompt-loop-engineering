@@ -1,0 +1,7 @@
+A customer says that their vehicle was damaged yesterday.
+The customer has photographs but has not supplied a repair estimate.
+
+List:
+1. Facts explicitly provided.
+2. Missing information.
+3. Conclusions that cannot yet be established.

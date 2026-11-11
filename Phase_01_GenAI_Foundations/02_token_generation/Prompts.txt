@@ -1,0 +1,9 @@
+Prompt 01:
+Complete this sentence with one word:
+The capital of France is
+Prompt 02:
+Complete this sentence with one word:
+The capital of France is not
+Prompt 03:
+Complete this sentence with one word:
+In a fictional world, the capital of France is

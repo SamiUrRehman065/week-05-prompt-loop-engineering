@@ -1,0 +1,18 @@
+Use draft:
+The customer has submitted all required documents.
+The claim should be approved.
+
+
+But the source information says:
+The customer has provided photographs.
+A repair estimate has not been supplied.
+
+
+Ask the model to evaluate the draft against these criteria:
+1. Does each factual statement follow from the input?
+2. Does the draft invent missing information?
+3. Does it make an unauthorized final claim decision?
+4. What should be corrected?
+
+
+Then ask students to compare the critique with the source evidence.

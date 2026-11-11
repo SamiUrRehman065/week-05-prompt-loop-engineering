@@ -1,0 +1,16 @@
+Prompt 01
+Analyze this claim.
+
+Prompt 02
+Classify this insurance claim as vehicle, property, health,
+travel, or other.
+
+Return:
+- category
+- one-sentence summary
+- missing information
+
+Do not invent facts.
+
+Claim:
+"My car was damaged in a collision, but I have no repair estimate."

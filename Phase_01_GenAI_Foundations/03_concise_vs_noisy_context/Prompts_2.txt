@@ -1,0 +1,16 @@
+Prompt 01:
+Classify this insurance claim as vehicle, property, health,
+travel, or other.
+
+Claim: A tree fell on my parked car.
+
+Prompt 02:
+You are an assistant. Be detailed. Think carefully.
+Insurance is important. Claims may involve many situations.
+Vehicles can be cars, buses, and trucks. Property can mean
+buildings or belongings. Health claims may involve treatment.
+Travel claims may involve luggage or cancellation.
+Many things can happen to customers. Please classify the claim
+carefully and explain everything relevant.
+
+Claim: A tree fell on my parked car.

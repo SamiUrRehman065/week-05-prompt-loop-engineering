@@ -1,0 +1,5 @@
+The service was excellent.
+The service was terrible.
+The service was acceptable.
+The product works, but delivery was late.
+The package never arrived.
